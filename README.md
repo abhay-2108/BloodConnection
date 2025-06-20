@@ -2,11 +2,18 @@
 
 **BloodConnection** is an AI-powered, full-stack web application designed to bridge the gap between blood donors and recipients. With real-time inventory management, emergency response, and intelligent donor-matching systems, the platform empowers hospitals, volunteers, and individuals to facilitate life-saving blood donations quickly and efficiently.
 
----
 
 ## 🔍 Why BloodConnection?
 
 Despite advancements in healthcare, many lives are lost due to the unavailability of blood at critical moments. Traditional blood bank systems often suffer from delayed communication, unstructured data, and lack of real-time insights.
+
+![image](https://github.com/user-attachments/assets/bf586913-a96b-4e7c-984a-028d993e7205)
+
+![Hospital Dashboard](https://github.com/user-attachments/assets/38251966-6b1f-4802-bd3c-67fce36a23f4)
+
+![User Dashboard](https://github.com/user-attachments/assets/1bb3f266-2a17-40cd-8b48-e92150b716e5)
+
+
 
 **BloodConnection** addresses these challenges by:
 
@@ -16,7 +23,6 @@ Despite advancements in healthcare, many lives are lost due to the unavailabilit
 * Offering geo-based blood request handling
 * Supporting emergency broadcasts and mobile unit dispatch
 
----
 
 ## ⚙️ Key Features (At a Glance)
 
@@ -31,7 +37,6 @@ Despite advancements in healthcare, many lives are lost due to the unavailabilit
 * 🔒 **Secure Auth & Encryption** – Email/OTP login, JWT auth, and data protection with encryption
 * 📬 **Direct Contact Options** – Instantly email or call matched donors in real-time
 
----
 
 ## 🚀 Getting Started
 
@@ -78,7 +83,6 @@ Despite advancements in healthcare, many lives are lost due to the unavailabilit
 3. **Open your browser at:**
    [http://localhost:5173](http://localhost:5173)
 
----
 
 ## Contact
 
